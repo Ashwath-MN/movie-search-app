@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Movie-Search-App-Task2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+COMPANY: CODTECH IT SOLUTION
+NAME: ASHWATH M N
+INTERN ID: CTIS5748
+DOMAIN: React.js Web Development
+DURATION: 6 Weeks
+PERIOD: 12/FEB/26 TO 26/MAR/26
+MENTOR: NEELA SANTOSH
 
-## Available Scripts
+# Project Description
 
-In the project directory, you can run:
+The Movie Search Application is a simple and interactive web application developed using React.js to search and display movie information. The main objective of this project is to build a user-friendly system where users can search movies, view movie details, and manage their favorite movies.
 
-### `npm start`
+The application connects to an external movie service (OMDb API) to fetch movie data dynamically and display it in a structured format. Users can type the name of a movie in the search box and click the search button to view movie results instantly. The system displays important details such as movie title, release year, and movie poster.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The application updates the information dynamically without refreshing the page, which improves the user experience. This project mainly focuses on frontend web development concepts such as component-based architecture, handling user input, managing application state, and API integration.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+React.js is used as the main technology to build the user interface. The project uses React hooks such as useState and useEffect to manage data and control how information is displayed on the screen. The application also demonstrates how to fetch data from an external API using asynchronous operations.
 
-### `npm test`
+# Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Search movies using OMDb API
 
-### `npm run build`
+Display movie title, year, and poster
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Default homepage with mixed movies (Hollywood and Kannada)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Add movies to favorites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Remove movies from favorites
 
-### `npm run eject`
+Image fallback for missing posters
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Responsive card-based layout
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Professional Netflix-style user interface
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Technologies Used
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+React.js
 
-## Learn More
+JavaScript
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+HTML
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+CSS
 
-### Code Splitting
+Bootstrap
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+OMDb API
