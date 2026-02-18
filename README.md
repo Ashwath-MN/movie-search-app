@@ -1,12 +1,26 @@
 # Movie-Search-App-Task2
 
-COMPANY: CODTECH IT SOLUTION
+COMPANY: CODTECH IT SOLUTION  
+
+
 NAME: ASHWATH M N
+
+
 INTERN ID: CTIS5748
+
+
 DOMAIN: React.js Web Development
+
+
 DURATION: 6 Weeks
+
+
 PERIOD: 12/FEB/26 TO 26/MAR/26
+
+
 MENTOR: NEELA SANTOSH
+
+
 
 # Project Description
 
