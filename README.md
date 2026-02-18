@@ -45,5 +45,9 @@ React.js is used as the main technology to build the user interface. The project
 * CSS
 * Bootstrap
 * OMDb API
+# output 
+# output 1
+
+
 
 
