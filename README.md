@@ -46,8 +46,12 @@ React.js is used as the main technology to build the user interface. The project
 * Bootstrap
 * OMDb API
 # output 
-# output 1
+# output-1
+<img width="1778" height="854" alt="Image" src="https://github.com/user-attachments/assets/163f1ae9-d194-4ee6-85ab-dd4b20eeeeb1" />
 
+# output-2 Display of Favorite Movies section showing added movies with remove option.
+
+<img width="1749" height="844" alt="Image" src="https://github.com/user-attachments/assets/9c1fad75-dbc1-42b6-a6fb-37405ba86e26" />
 
 
 
